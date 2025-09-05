@@ -119,6 +119,7 @@ Example:
 ```sh
 git push origin feature-alex-smith
 ```
+---
 
 ---
 
@@ -211,6 +212,20 @@ Once you've made your LinkedIn post:
 3️⃣ We will **feature top contributions** and give personalized feedback!  
 
 🚀 **This is your opportunity to stand out in the DevOps & Cloud community.**  
+
+---
+## Updates
+
+### Sprint 1 – Footer Implementation and Deployment
+
+- **Day 1:** Added static footer with version and author. Deployed to EC2 and verified.  
+- **Day 2:** Made deploy date dynamic. Updated README with code snippet. Deployed and tested.  
+- **Day 3:** Improved footer styling (font size, spacing) and ensured WCAG AA contrast. Tested on mobile and desktop.  
+- **Day 4:** Added provenance with short commit hash (`rev: abc123`) in footer. Verified via browser and curl.  
+- **Day 5:** Recorded demo of EC2 deployment, completed retrospective, and captured burndown chart.  
+
+Footer now shows:  
+`Mini Finance v1.0 — Deployed on <DD Mon YYYY> — By Anuradha Iyer (rev: abc123)`
 
 ---
 
