@@ -225,7 +225,7 @@ Once you've made your LinkedIn post:
 - **Day 5:** Recorded demo of EC2 deployment, completed retrospective, and captured burndown chart.  
 
 Footer now shows:  
-`Mini Finance v1.0 — Deployed on <DD Mon YYYY> — By Anuradha Iyer (rev: abc123)`
+`Mini Finance v1.0 — Deployed on 05 Sep 2025 -By Anuradha Iyer (rev: 781d224)`
 
 ---
 
