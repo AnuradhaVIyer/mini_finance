@@ -486,7 +486,7 @@ strong {
 
 #sidebarMenu .nav-link.active, 
 #sidebarMenu .nav-link:hover {
-  background: var(--primary-color);
+  background: #0d6efd;
   color: var(--white-color);
 }
 
